@@ -140,7 +140,6 @@ body{
     margin: auto;
 }
 .great{
-    margin-top: 35px;
     color: white;
     font-weight: 700;
     font-size: 22px;
@@ -151,7 +150,6 @@ body{
     margin: auto;
 }
 .result-text{
-    margin-bottom: 30px;
     color: hsla(221, 100%, 96%, .8);
     font-size:18px;
 }
